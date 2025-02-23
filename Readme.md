@@ -13,3 +13,4 @@ git remote add origin https://github.com/gabrieledumartins/"".git ( serve para v
 git push -u origin main ( empurro os commit do repositorio atual pro Github )
 git push origin main ( so utilizamos o -u no primeiro commit que fazemos )
 git checkout -b "nome da nova branch" ( criar uma nova branch )
+git merge nome da branch ( vai juntar a branch que eu escolher com a que main )
